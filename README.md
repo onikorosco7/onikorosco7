@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Onik Orosco</h1>
 
-<!--
-**onikorosco7/onikorosco7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Founder at Onik Studio | Full Stack Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🎓 Software Engineering student at SENATI  
+- 🚀 Founder of Onik Studio  
+- 💡 Focused on web development, systems and scalable solutions  
+- 🌱 Always learning and building  
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,git" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🌐 Web development projects  
+- 🧩 Systems & dashboards  
+- 📱 Scalable applications  
+
+---
+
+## 🌐 Connect with me
+
+- Website: https://onikstudio.site  
+- LinkedIn: (pon tu link aquí)
+
+---
+
+<p align="center">
+🔥 Building digital solutions that create impact
+</p>
