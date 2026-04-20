@@ -34,7 +34,7 @@
 ## 🌐 Connect with me
 
 - Website: https://onikstudio.site  
-- LinkedIn: (pon tu link aquí)
+- LinkedIn: www.linkedin.com/in/onik-a-orosco-mori
 
 ---
 
