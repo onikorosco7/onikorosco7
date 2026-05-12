@@ -33,7 +33,7 @@
 
 ## 🌐 Connect with me
 
-- Website: https://onikstudio.site  
+- Website: https://velor.site  
 - LinkedIn: https://linkedin.com/in/onikorosco
 
 ---
