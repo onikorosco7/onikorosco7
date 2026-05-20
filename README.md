@@ -10,15 +10,23 @@
 
 - 🎓 Software Engineering student at SENATI  
 - 🚀 Founder of Onik Studio  
-- 💡 Focused on web development, systems and scalable solutions  
+- ☁️ AWS Academy Graduate – Cloud Foundations  
+- 💡 Focused on web development, backend systems, cloud and scalable solutions  
 - 🌱 Always learning and building  
+
+---
+
+## 🏅 Certifications
+
+- AWS Academy Graduate - Cloud Foundations  
+  Credential: https://www.credly.com/go/k6BYYVP
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,git,aws" />
 </p>
 
 ---
@@ -26,18 +34,19 @@
 ## 🚀 Projects
 
 - 🌐 Web development projects  
-- 🧩 Systems & dashboards  
-- 📱 Scalable applications  
+- 🧩 Admin systems & dashboards  
+- ☁️ Cloud-ready scalable applications  
+- 📱 Modern full-stack solutions  
 
 ---
 
 ## 🌐 Connect with me
 
-- Website: https://velor.site  
+- Website: https://verol.site  
 - LinkedIn: https://linkedin.com/in/onikorosco
 
 ---
 
 <p align="center">
-🔥 Building digital solutions that create impact
+🔥 Building scalable digital solutions with web, backend & cloud technologies
 </p>
