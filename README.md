@@ -19,7 +19,7 @@
 ## 🏅 Certifications
 
 - AWS Academy Graduate - Cloud Foundations  
-  Credential: https://www.credly.com/go/k6BYYVP
+  Credential: https://www.credly.com/go/k6BYYVP4
 
 ---
 
