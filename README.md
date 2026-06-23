@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onik Orosco</h1>
 
 <p align="center">
-🚀 Founder at Onik Studio | Full Stack Developer
+🚀 Founder at Verol | Full Stack Developer
 </p>
 
 ---
